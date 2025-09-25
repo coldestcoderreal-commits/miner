@@ -74,4 +74,3 @@ jobs:
           echo "Triggering the next workflow run..."
           # Replace 'main.yml' with your workflow's filename if it's different.
           gh workflow run main.yml
-          
